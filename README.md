@@ -1,0 +1,1 @@
+este proyecto es un ejemplo de uso de la libreria jzoom para acercar imagen en una pagina web 
